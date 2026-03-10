@@ -49,8 +49,8 @@ export default function Home() {
         <div className="cover-tag">Youth Sharing · Firman Tuhan</div>
         <h1 className="cover-title">
           Persahabatan Yang<br />
-          <span>Menyelamatkan</span><br />
-          Masa Depan
+          <span>Menguatkan</span><br />
+          dan menjaga iman
         </h1>
         <p className="cover-sub">Amsal · 1 Samuel · Daniel</p>
         <div className="cover-verse-box">
